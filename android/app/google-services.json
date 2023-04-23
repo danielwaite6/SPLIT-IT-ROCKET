@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799740227925",
+    "project_id": "spli-it-rocket",
+    "storage_bucket": "spli-it-rocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799740227925:android:4838b4ae68bafce962bfdc",
+        "android_client_info": {
+          "package_name": "com.example.split"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799740227925-6ksclm6uouls900r25ke6q78jp0tubf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-PjzEzJmo94a8rXL3z8bi4i7ZcH0DbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799740227925-6ksclm6uouls900r25ke6q78jp0tubf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
